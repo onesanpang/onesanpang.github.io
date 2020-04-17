@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Onesnapang</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-04-17T07:48:52.170Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Zhby</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo+Github搭建博客教程</title>
+    <link href="http://yoursite.com/2020/04/17/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2020/04/17/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/</id>
+    <published>2020-04-16T17:42:58.000Z</published>
+    <updated>2020-04-17T07:48:52.170Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="http://yoursite.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
+    
+  </entry>
+  
+</feed>
