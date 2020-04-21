@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-17T09:32:40.502Z</updated>
+  <updated>2020-04-21T10:55:03.513Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,18 @@
     <link href="http://yoursite.com/2020/04/17/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2020/04/17/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/</id>
     <published>2020-04-16T17:42:58.000Z</published>
-    <updated>2020-04-17T09:32:40.502Z</updated>
+    <updated>2020-04-21T10:55:03.513Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><p>先下载git</p><ul><li>下载git<br><a href="https://npm.taobao.org/mirrors/git-for-windows/" target="_blank" rel="noopener">git下载</a></li><li>下载Node<br><a href="https://nodejs.org/en/" target="_blank" rel="noopener">node下载</a></li><li>下载Hexo<br>使用<code>git</code>输入<code>npm install hexo --save</code></li></ul>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;&lt;p&gt;先下载git&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;下载git&lt;br&gt;&lt;a href=&quot;https://npm.taobao.org/m
+      
     
     </summary>
     
