@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-22T13:28:36.051Z</updated>
+  <updated>2020-04-22T15:28:42.970Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,16 @@
     <link href="http://yoursite.com/2020/04/22/Android%E9%AB%98%E5%BE%B7%E5%85%AC%E4%BA%A4%E8%B7%AF%E7%BA%BF%E6%9F%A5%E8%AF%A2/"/>
     <id>http://yoursite.com/2020/04/22/Android%E9%AB%98%E5%BE%B7%E5%85%AC%E4%BA%A4%E8%B7%AF%E7%BA%BF%E6%9F%A5%E8%AF%A2/</id>
     <published>2020-04-22T13:25:58.000Z</published>
-    <updated>2020-04-22T13:28:36.051Z</updated>
+    <updated>2020-04-22T15:28:42.970Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h2><p><img src="http://usa.027cgb.com/629532/Screenshot_2020-04-22-21-34-08.png" alt=""></p><p><img src="http://usa.027cgb.com/629532/Screenshot_2020-04-22-21-34-31.png" alt=""></p><h2 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h2><ul><li>主要是对该城市公交进行一个搜索</li><li>将所搜结果使用<code>ListView</code>进行展示(其中包括公交名称、首末站台、途径站台数、首末班车时间，以及价格)</li><li>点击<code>ListView</code>的<code>Item</code>弹出自定义的<code>dialog</code></li><li>弹出的<code>dialog</code>在地图上展示出路线，以及站点打点</li><li><code>dialog</code>底部一个横向的展示出每个站台的名称，点击再地图上显示到具体的站台。</li></ul><h2 id="功能实现"><a href="#功能实现" class="headerlink" title="功能实现"></a>功能实现</h2><h3 id="城市公交搜索"><a href="#城市公交搜索" class="headerlink" title="城市公交搜索"></a>城市公交搜索</h3><p>先创建公交搜索类</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">private BusLineSearch busLineSearch;</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;效果图&quot;&gt;&lt;a href=&quot;#效果图&quot; class=&quot;headerlink&quot; title=&quot;效果图&quot;&gt;&lt;/a&gt;效果图&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://usa.027cgb.com/629532/Screenshot_2020-04-22-21-34
+      
     
     </summary>
     
